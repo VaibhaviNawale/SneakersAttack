@@ -71,8 +71,6 @@ Replace the placeholder values with your credentials. You can get these by signi
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
-
 ## 📁 Project Structure
 
 ```
